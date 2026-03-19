@@ -26,4 +26,4 @@ Soy un desarrollador apasionado por crear soluciones robustas. Actualmente enfoc
 
 ### 📫 Conectemos:
 - 📧 **Email:** sergiogutierrez370@gmail.com
-- 💼 **LinkedIn:** [Tu enlace aquí]
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sergio-gutierrez-a7576b183/

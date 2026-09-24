@@ -1,6 +1,6 @@
 # ¡Hola! Soy Sergio Gutiérrez 👋
 
-🚀 **Full-Stack Developer | Especializándome en IA & Big Data**
+🚀 **Data Engineer en formación | Full-Stack background (Java, Python, React) | Especializándome en Azure, Databricks & IA**
 
 Soy un desarrollador con mentalidad analítica, apasionado por crear soluciones eficientes, robustas y orientadas a datos. Me motiva diseñar arquitecturas limpias en el Backend, optimizar procesos mediante scripts de automatización e IA, y conectar de forma fluida la lógica de negocio con interfaces de usuario intuitivas.
 

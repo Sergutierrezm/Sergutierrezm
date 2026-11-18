@@ -34,15 +34,9 @@ Actualmente curso el **Máster en Inteligencia Artificial y Data Engineering** e
 > Motor de recomendación semántica conectando Azure SQL con modelos de IA. Incluye optimización de cálculos vectoriales pesados en base de datos mediante procedimientos almacenados (Pushdown compute).
 <br>
 <a href="https://github.com/Sergutierrezm/azureSQLSeries">
-  <img src="https://raw.githubusercontent.com/Sergutierrezm/azureSQLSeries/main/arquitectura_v4.0.0.png" width="600" alt="Diagrama de Arquitectura Cloud azureSQLSeries v4.0.0">
+  <img src="architecture-v4.jpeg" width="600" alt="Diagrama de Arquitectura Cloud azureSQLSeries v4.0">
 </a>
 <br><br>
-
-- 💱 **[cambio_divisa_bce](https://github.com/Sergutierrezm/cambio_divisa_bce)**: Pipeline ETL automatizado en Python para la extracción vía API, limpieza e ingesta estructurada en PostgreSQL de los tipos de cambio oficiales del Banco Central Europeo.
-
-- 📊 **[SaludFinancieraApp](https://github.com/Sergutierrezm/SaludFinancieraApp)**: Plataforma financiera Full-Stack con arquitectura de microservicios (Spring Boot, Angular, PostgreSQL) que genera informes financieros utilizando IA local de forma 100% privada.
-
-- 📂 **Auditor Semántico de Archivos *(En desarrollo)***: Arquitectura de indexación que combina identidad de bits (SHA-256) con IA local y ChromaDB para detectar, clasificar y limpiar archivos duplicados o similares en milisegundos.
 
 ---
 

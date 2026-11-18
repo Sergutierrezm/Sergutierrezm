@@ -30,11 +30,13 @@ Actualmente curso el **Máster en Inteligencia Artificial y Data Engineering** e
 
 ### 🚀 Proyectos Destacados
 
-- 📺 **[azureSQLSeries](https://github.com/Sergutierrezm/azureSQLSeries)**: Motor de recomendación semántica conectando Azure SQL con modelos de IA (OpenAI `text-embedding-3-small` / Ollama). Incluye optimización de cálculos vectoriales pesados en base de datos mediante procedimientos almacenados (Pushdown compute) y backend en FastAPI.
-  <br>
-  <a href="https://github.com/Sergutierrezm/azureSQLSeries">
-    <img src="https://raw.githubusercontent.com/Sergutierrezm/azureSQLSeries/main/arquitectura_v4.0.0.png" width="600" alt="Diagrama de Arquitectura Cloud azureSQLSeries v4.0.0">
-  </a>
+**[azureSQLSeries](https://github.com/Sergutierrezm/azureSQLSeries)** | *Azure SQL, OpenAI, FastAPI, Angular*
+> Motor de recomendación semántica conectando Azure SQL con modelos de IA. Incluye optimización de cálculos vectoriales pesados en base de datos mediante procedimientos almacenados (Pushdown compute).
+<br>
+<a href="https://github.com/Sergutierrezm/azureSQLSeries">
+  <img src="https://raw.githubusercontent.com/Sergutierrezm/azureSQLSeries/main/arquitectura_v4.0.0.png" width="600" alt="Diagrama de Arquitectura Cloud azureSQLSeries v4.0.0">
+</a>
+<br><br>
 
 - 💱 **[cambio_divisa_bce](https://github.com/Sergutierrezm/cambio_divisa_bce)**: Pipeline ETL automatizado en Python para la extracción vía API, limpieza e ingesta estructurada en PostgreSQL de los tipos de cambio oficiales del Banco Central Europeo.
 

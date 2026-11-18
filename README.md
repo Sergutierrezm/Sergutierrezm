@@ -30,10 +30,10 @@ Actualmente curso el **Máster en Inteligencia Artificial y Data Engineering** e
 
 ### 🚀 Proyectos Destacados
 
-**[azureSQLSeries](https://github.com/Sergutierrezm/azureSQLSeries)** | *Azure SQL, OpenAI, FastAPI, Angular*
+**[azureSQLSeries](https://github.com/Sergutierrezm/azure-sql-vector-series-recommender)** | *Azure SQL, OpenAI, FastAPI, Angular*
 > Motor de recomendación semántica conectando Azure SQL con modelos de IA. Incluye optimización de cálculos vectoriales pesados en base de datos mediante procedimientos almacenados (Pushdown compute).
 <br>
-<a href="https://github.com/Sergutierrezm/azureSQLSeries">
+<a href="https://github.com/Sergutierrezm/azure-sql-vector-series-recommender">
   <img src="architecture-v4.jpeg" width="600" alt="Diagrama de Arquitectura Cloud azureSQLSeries v4.0">
 </a>
 <br><br>

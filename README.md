@@ -52,7 +52,7 @@ Documentación práctica, esquemas y apuntes que voy creando mientras preparo ce
 
 <br>
 <a href="https://drive.google.com/drive/folders/1hj8_NZLBr-ZhXKLwKCfie9KiJQvvPVxP?usp=sharing" target="_blank">
-  <img src="portada-dp800.jpeg" width="500" alt="Portada Manual de Estudio DP-800">
+  <img src="portada-dp800.jpeg" width="250" alt="Portada Manual de Estudio DP-800">
 </a>
 <br><br>
 

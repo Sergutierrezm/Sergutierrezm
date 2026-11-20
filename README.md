@@ -40,12 +40,28 @@ Actualmente curso el **Máster en Inteligencia Artificial y Data Engineering** e
 
 ---
 
-### 📊 GitHub Stats
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sergutierrezm&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergutierrezm&layout=compact&theme=transparent&hide_border=true&title_color=0077B5" width="48%" />
-</div>
+### 📚 Guías Técnicas y Recursos de Estudio
+
+Documentación práctica, esquemas y apuntes que voy creando mientras preparo certificaciones oficiales de Microsoft Azure, Data Engineering e IA. Todo el material es abierto y descargable.
+
+### 📚 Guías Técnicas y Recursos de Estudio
+
+Documentación práctica, casos de uso reales y apuntes técnicos que voy creando mientras preparo certificaciones oficiales de Microsoft Azure, Data Engineering e IA. Todo el material es abierto y descargable.
+
+**[Manual de Estudio Avanzado: Microsoft DP-800 (SQL AI Developer Associate)](https://drive.google.com/drive/folders/1hj8_NZLBr-ZhXKLwKCfie9KiJQvvPVxP?usp=sharing)**
+> Guía de 18 páginas sobre diseño, seguridad, rendimiento e integración de IA en soluciones SQL (Azure SQL Database, SQL Server IaaS/PaaS y Microsoft Fabric). Incluye casos de uso reales, ejemplos de configuración y puntos clave para el examen.
+
+<br>
+<a href="https://drive.google.com/drive/folders/1hj8_NZLBr-ZhXKLwKCfie9KiJQvvPVxP?usp=sharing" target="_blank">
+  <img src="portada-dp800.jpeg" width="500" alt="Portada Manual de Estudio DP-800">
+</a>
+<br><br>
+
+<a href="https://drive.google.com/drive/folders/1hj8_NZLBr-ZhXKLwKCfie9KiJQvvPVxP?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Acceder_y_Descargar_PDF-0077B5?style=for-the-badge&logo=googledrive&logoColor=white" alt="Acceder y Descargar PDF en Google Drive" />
+</a>
 
 ---
 

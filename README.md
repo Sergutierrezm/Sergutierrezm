@@ -46,9 +46,6 @@ Actualmente curso el **Máster en Inteligencia Artificial y Data Engineering** e
 
 Documentación práctica, esquemas y apuntes que voy creando mientras preparo certificaciones oficiales de Microsoft Azure, Data Engineering e IA. Todo el material es abierto y descargable.
 
-### 📚 Guías Técnicas y Recursos de Estudio
-
-Documentación práctica, casos de uso reales y apuntes técnicos que voy creando mientras preparo certificaciones oficiales de Microsoft Azure, Data Engineering e IA. Todo el material es abierto y descargable.
 
 **[Manual de Estudio Avanzado: Microsoft DP-800 (SQL AI Developer Associate)](https://drive.google.com/drive/folders/1hj8_NZLBr-ZhXKLwKCfie9KiJQvvPVxP?usp=sharing)**
 > Guía de 18 páginas sobre diseño, seguridad, rendimiento e integración de IA en soluciones SQL (Azure SQL Database, SQL Server IaaS/PaaS y Microsoft Fabric). Incluye casos de uso reales, ejemplos de configuración y puntos clave para el examen.

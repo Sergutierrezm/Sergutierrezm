@@ -38,7 +38,13 @@ Actualmente curso el **Máster en Inteligencia Artificial y Data Engineering** e
 </a>
 <br><br>
 
----
+**[divisas_bce](https://github.com/Sergutierrezm/divisas_bce)** | *Python, PostgreSQL, SQLAlchemy, Pandas*
+> Pipeline ETL idempotente de tipos de cambio del Banco Central Europeo bajo Arquitectura Medallion (Bronze, Silver, Gold). Implementa cargas atómicas mediante UPSERT (`ON CONFLICT DO UPDATE`) y cálculo vectorizado de variaciones diarias.
+<br>
+<a href="https://github.com/Sergutierrezm/divisas_bce">
+  <img src="architecture-medallion.jpeg" width="600" alt="Diagrama de Arquitectura Medallion divisas_bce v2.0">
+</a>
+<br><br>
 
 ---
 
